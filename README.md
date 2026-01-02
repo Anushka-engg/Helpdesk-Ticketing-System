@@ -15,17 +15,6 @@ The application allows users to raise, track, and manage support tickets efficie
 
 ---
 
-## 🚀 Tech Stack
-
-| Layer | Technology |
-|------|------------|
-| Frontend | HTML, CSS, JavaScript |
-| Backend | PHP |
-| Database | MySQL |
-| Server | Apache (XAMPP / LAMP) |
-
----
-
 ## 📁 Project Structure
 
 Helpdesk-Ticketing-System/
