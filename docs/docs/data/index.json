@@ -1,0 +1,58 @@
+{    "title": "Helpdesk Ticketing System",
+    "team": [
+        {
+            "name": "Y.M.H.V.Illangarathne",
+            "email": "e19142@eng.pdn.ac.lk",
+            "eNumber": "E/19/142"
+        },
+        {
+            "name": "Narasinghe N.K.B.I.U.",
+            "email": "e19253@eng.pdn.ac.lk",
+            "eNumber": "E/19/253"
+        },
+        {
+            "name": "Ranage R.D.P.R.",
+            "email": "e19310@eng.pdn.ac.lk",
+            "eNumber": "E/19/310"
+        },
+        {
+            "name": "Weerasingha W.A.C.J.",
+            "email": "e19423@eng.pdn.ac.lk",
+            "eNumber": "E/19/423"
+        },
+        {
+            "name": "Weerasinghe P.M.",
+            "email": "e19426@eng.pdn.ac.lk",
+            "eNumber": "E/19/426"
+        },
+        {
+            "name": "Wickramaarachchi I.W.A.P.D.",
+            "email": "e19431@eng.pdn.ac.lk",
+            "eNumber": "E/19/431"
+        },
+        {
+            "name": "W.A.A.M.T. Withanaarachchi",
+            "email": "e19453@eng.pdn.ac.lk",
+            "eNumber": "E/19/453"
+        },
+        {
+            "name": "Dilshan R.M.S.",
+            "email": "e19465@eng.pdn.ac.lk",
+            "eNumber": "E/19/465"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Ms. Yashudha Vimukthi",
+            "email": "yashodhav@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Mr. Ziyan Maraikar",
+            "email": "ziyanm@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": [
+        "Software Engineering",
+        "Maven"
+    ]
+}
